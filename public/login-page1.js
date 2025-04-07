@@ -11,7 +11,7 @@ vnav.classList.add("flex");
  });
  
   bars.addEventListener("click",()=>{
-    (hnav.classList.add("w-full");
+    hnav.classList.add("w-full");
   hnav.classList.remove("w-[80%]");
  vnav.classList.remove("flex");
 vnav.addEventListener.add("hidden");
